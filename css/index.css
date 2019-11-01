@@ -112,6 +112,7 @@ p {
     justify-content: center;
 }
 
+
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
@@ -143,4 +144,20 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+header{
+    text-align: center;
+    word-spacing: 100px;
+    
+}
+.pic{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+.middle-content .boxes .box {
+background: teal;
+
 }
